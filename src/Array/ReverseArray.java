@@ -1,7 +1,7 @@
 /***
  * Reverse an Array
  */
-package Recursion;
+package Array;
 
 import java.util.Arrays;
 
