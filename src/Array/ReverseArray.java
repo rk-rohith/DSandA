@@ -16,9 +16,9 @@ public class ReverseArray {
     private static int[] arrayReverse(int[] arr) {
         int[] revArray= new int[arr.length];
         int j = arr.length-1;
-        for (int k : arr) {
-            revArray[j] = k;
-            j = j - 1;
+        for(int i=0;i<arr.length;i++){
+            revArray[j] =arr[i];
+            j--;
         }
         return revArray;
     }
