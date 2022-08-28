@@ -17,7 +17,7 @@ public class KthSmallestTerm {
         System.out.println("enter the Kth smallest term");
         Integer k = s.nextInt();
 
-        System.out.println("enter the Kth smallest term is " + findKthSmaalestTerm(arr, k));
+        System.out.println(k + "th smallest term is " + findKthSmaalestTerm(arr, k));
 
     }
 
