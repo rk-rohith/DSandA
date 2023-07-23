@@ -1,3 +1,6 @@
+/***
+This program is used to check the occurrence of each character
+*/
 package String;
 
 import java.util.HashMap;
